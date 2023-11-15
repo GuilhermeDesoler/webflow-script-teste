@@ -1,0 +1,29 @@
+#LoadingPage {
+  height: 100vh;
+  width: 99vw;
+  background-color: red;
+}
+
+#BasicInfoPage {
+  height: 100vh;
+  width: 99vw;
+  background-color: blue;
+}
+
+#ExtraInfoPage {
+  height: 100vh;
+  width: 99vw;
+  background-color: green;
+}
+
+#ThanksPage {
+  height: 100vh;
+  width: 99vw;
+  background-color: yellow;
+}
+
+#BasicInfoPage,
+#ExtraInfoPage,
+#ThanksPage {
+  display: none;
+}
